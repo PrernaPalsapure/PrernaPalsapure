@@ -63,7 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrernaPalsapure&show_icons=true&theme=default" alt="Prerna's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrernaPalsapure" alt="streak stats" height="165"/>
 </p>
 
 ---
